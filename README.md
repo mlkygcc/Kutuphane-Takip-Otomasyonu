@@ -61,7 +61,5 @@ Kullanıcı Adı: admin
 
 Şifre: 12345
 
-# Ekran Görüntüleri
-
 
 **Geliştirici**: Meleksu YAĞCI
